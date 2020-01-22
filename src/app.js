@@ -1,5 +1,11 @@
 //imp 7 web server 7th video
 //2 Accessing api 2nd video 1:00
+
+/*git coomand
+git add filename (ise . for al)
+git status
+git commit
+*/
 const path = require('path')
 const express = require('express')
 const hbs = require('hbs')
